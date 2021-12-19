@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d7103d6932dfbd64ea2098d50a384865
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heldItemImagePlaceHolder: {fileID: 1138475522444930054, guid: 5a69dc03c3044504dbe5911ff2a79407, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
